@@ -32,6 +32,9 @@ namespace Flower.Data
             return new ApplicationDbContext();
         }
 
+        public DbSet<Note> Notes { get; set;}
+
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         
         {
