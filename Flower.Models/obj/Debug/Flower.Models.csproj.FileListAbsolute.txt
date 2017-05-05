@@ -1,0 +1,14 @@
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\Flower.Models.dll.config
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\Flower.Models.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\Flower.Models.pdb
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\EntityFramework.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\EntityFramework.xml
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\obj\Debug\Flower.Models.csprojResolveAssemblyReference.cache
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\obj\Debug\Flower.Models.dll
+c:\users\moncure306\documents\visual studio 2017\Projects\Flower\Flower.Models\obj\Debug\Flower.Models.pdb
