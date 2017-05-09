@@ -19,7 +19,8 @@ namespace Flower.Models
         public string Content { get; set; }
 
         //This is optional
-        public string  Content1 { get; set; }
+        public string Content1 { get; set; }
+
 
         public override string ToString()
         {
@@ -28,3 +29,5 @@ namespace Flower.Models
     }
 
 }
+
+
